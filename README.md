@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ritu Choudhary
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ritu67Choudhary&label=Profile%20Views&color=blue&style=flat" alt="Profile View Counter" />
 </p>
 
