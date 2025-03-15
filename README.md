@@ -1,5 +1,9 @@
 # 👋 Hello! I'm Ritu Choudhary
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ritu67Choudhary&label=Profile%20Views&color=blue&style=flat" alt="Profile View Counter" />
+</p>
+
 ## 🚀 About Me
 I'm a 1st-year Master of Computer Application student at Shri Ramdeobaba College of Engineering and Management. I'm passionate about development and coding.
 
