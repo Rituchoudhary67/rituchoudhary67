@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a 1st-year Master of Computer Application student at Shri Ramdeobaba College of Engineering and Management. I'm passionate about development and coding.
+I'm a final year Master of Computer Application student at Shri Ramdeobaba College of Engineering and Management. I'm passionate about development and coding.
 
 ---
 
